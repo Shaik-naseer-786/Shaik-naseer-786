@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
@@ -45,17 +45,17 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="40" alt="discord logo"  />
-  <a href="bnkreddy7571@gmail.com" target="_blank">
+  <a href="sknaseer9347@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/naveenkumarreddybadduri/" target="_blank">
+  <a href="https://www.linkedin.com/in/naseer-shaik786/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/bnkreddy7571" target="_blank">
+  <a href="https://www.hackerrank.com/profile/sknaseer9347" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="68" height="40" alt="hackerrank logo"  />
   </a>
 
-  <a href="https://leetcode.com/Naveen7571/" target="_blank">
+  <a href="https://leetcode.com/u/ShaikNaseer/" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width="40" height="40" alt="leetcode logo" />
   </a>
     
