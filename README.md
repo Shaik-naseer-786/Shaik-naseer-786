@@ -5,10 +5,10 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Naveenreddy7571&theme=merko&border_radius=3.8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shaik-naseer-786&theme=merko&border_radius=3.8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveenreddy7571&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Naveenreddy7571&theme=radical" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenreddy7571&custom_title=My%20Contribution%20Graph&theme=dracula&radius=0&area=true&hide_border=false" height="200" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Shaik-naseer-786&theme=radical" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-naseer-786&custom_title=My%20Contribution%20Graph&theme=dracula&radius=0&area=true&hide_border=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -65,14 +65,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Naveenreddy7571/Naveenreddy7571/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shaik-naseer-786/Shaik-naseer-786/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Naveenreddy7571/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Shaik-naseer-786/count.svg?"  />
 </div>
 
 ###
