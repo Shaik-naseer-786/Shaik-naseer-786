@@ -65,14 +65,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shaik-naseer-786/Shaik-naseer-786/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Naveenreddy7571/Naveenreddy7571/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Shaik-naseer-786/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Naveenreddy7571/count.svg?"  />
 </div>
 
 ###
